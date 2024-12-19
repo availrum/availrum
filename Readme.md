@@ -19,6 +19,7 @@
 저는 항상 재미있게 살고 싶습니다. 새로운 기술을 배우는 것은 재미있습니다. 새로운 알고리즘을 풀어서 구현하는 경험 또한 재미있고 이론적인 내용을 증명하는 것도 재미있습니다 :) 
 어제의 나보다 무엇 하나라도 성장한 오늘의 자신이 되도록 항상 노력하고 있습니다.
 <br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gdugboy)](https://github.com/availrum/github-readme-stats)
 <br />
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=najojoda)](https://solved.ac/najojoda/)
 <br />
