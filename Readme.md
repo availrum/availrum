@@ -20,7 +20,6 @@
 어제의 나보다 무엇 하나라도 성장한 오늘의 자신이 되도록 항상 노력하고 있습니다.
 <br />
 <br />
-<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=najojoda)](https://solved.ac/najojoda/) -->
 <br />
 
 ## Skills
