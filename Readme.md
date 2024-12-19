@@ -36,7 +36,7 @@
   <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=black"> -->
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=availrum)](https://github.com/availrum/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=availrum)](https://github.com/availrum/github-readme-stats)-->
 
 #### I've used it before.
 <div style="display:flex;gap:30px;flex-wrap:wrap;">
