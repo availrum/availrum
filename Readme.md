@@ -22,6 +22,7 @@
 <br />
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=najojoda)](https://solved.ac/najojoda/)
+https://mazandi.herokuapp.com/api?handle=najojoda&theme=warm
 <br />
 
 ## Skills
